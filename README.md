@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Calibre-Web is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/janeczku/calibre-web
+Calibre-Web is an open-source web application that provides a clean, intuitive interface for browsing, reading, and downloading eBooks from a Calibre database. It supports user management, responsive design, Docker deployment, and integrates with various eBook formats, making it easy to self-host a personal digital library.
+
+**Areas:** Open-Source · eBook · Library · Web-App · Python
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://calibre-ebook.com)
+- [Documentation](https://github.com/janeczku/calibre-web/wiki)
+- [Getting started](https://github.com/janeczku/calibre-web#quick-start)
+- [Support](https://discord.gg/h2VsJ2NEfB)
+- [Changelog](https://calibre-ebook.com/whats-new)
+- [Privacy policy](https://calibre-ebook.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/calibre-web/](https://apis.io/providers/calibre-web/).
